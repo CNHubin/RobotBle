@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorDialogTipsBleBg">#0D000000</color>
+    <color name="colorDialogTipsBg">#99000000</color>
+    <color name="colorDialogBg">#F5A623</color>
+    <color name="dialog_ble_color">#8D8D8D</color>
+    <color name="colorDialogText">#4A4A4A</color>
+</resources>

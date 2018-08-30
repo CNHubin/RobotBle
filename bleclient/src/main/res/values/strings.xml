@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ble客户端</string>
+
+    <string name="dialog_ble_title">连接至</string>
+    <string name="dialog_close_robot_tips">请把手机靠近机器人</string>
+    <string name="dialog_again_loading">重新搜索</string>
+    <string name="dialog_none_robot_tips">未找到机器人</string>
+    <string name="dialog_open_ble_tips">请确保机器人已开启蓝牙，并重新搜索!</string>
+
+    <string name="dialog_connect_ble_title">蓝牙未连接</string>
+    <string name="dialog_connect_ble_tips">请开启蓝牙连接您的机器人吧！</string>
+    <string name="dialog_connect_ble_btn">立即连接</string>
+    <string name="dialog_exit_ble_btn">稍后</string>
+    <string name="dialog_send_swap_success">程序发送成功！</string>
+</resources>

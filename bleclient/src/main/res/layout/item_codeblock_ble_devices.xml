@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="57dp"
+        android:layout_height="57dp"
+        android:layout_centerHorizontal="true"
+        tools:src="@drawable/codeblock_icon_ble_device_logo_pressed" />
+
+    <TextView
+        android:id="@+id/tv_ble_devices_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:ellipsize="middle"
+        android:fontFamily="@font/arialbd"
+        android:singleLine="true"
+        android:textSize="11sp"
+        android:textColor="@color/dialog_ble_color"
+        tools:text="handi 1" />
+</RelativeLayout>
